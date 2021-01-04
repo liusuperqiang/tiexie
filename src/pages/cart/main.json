@@ -1,0 +1,20 @@
+{
+	"navigationBarTitleText": "购物车",
+    "navigationBarBackgroundColor": "#F71010",
+    "navigationBarTextStyle": "white",
+	"usingComponents": {
+		"van-tab": "../../static/vant-weapp/dist/tab/index",
+		"van-tabs": "../../static/vant-weapp/dist/tabs/index",
+        "van-row": "../../static/vant-weapp/dist/row/index",
+        "van-col": "../../static/vant-weapp/dist/col/index",
+        "van-submit-bar": "../../static/vant-weapp/dist/submit-bar/index",
+        "van-checkbox": "../../static/vant-weapp/dist/checkbox/index",
+        "van-checkbox-group": "../../static/vant-weapp/dist/checkbox-group/index",
+        "van-stepper": "../../static/vant-weapp/dist/stepper/index",
+        "van-dialog": "../../static/vant-weapp/dist/dialog/index",
+        "van-radio": "../../static/vant-weapp/dist/radio/index",
+        "van-radio-group": "../../static/vant-weapp/dist/radio-group/index",
+        "van-count-down": "../../static/vant-weapp/dist/count-down/index",
+        "van-toast": "../../static/vant-weapp/dist/toast/index"
+	}
+}

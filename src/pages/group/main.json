@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "拼团中心",
+    "usingComponents": {
+        "van-count-down": "../../static/vant-weapp/dist/count-down/index"
+    }
+}

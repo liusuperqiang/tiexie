@@ -1,0 +1,9 @@
+{
+    "usingComponents": {
+        "van-area": "../../static/vant-weapp/dist/area/index",
+        "van-popup": "../../static/vant-weapp/dist/popup/index",
+        "van-toast": "../../static/vant-weapp/dist/toast/index"
+    },
+    "navigationBarTitleText": "修改地址"
+}
+

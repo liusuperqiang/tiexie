@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "小香铺",
+  "usingComponents": {
+    "van-row": "../../static/vant-weapp/dist/row/index",
+    "van-col": "../../static/vant-weapp/dist/col/index",
+    "van-count-down": "../../static/vant-weapp/dist/count-down/index",
+    "van-popup": "../../static/vant-weapp/dist/popup/index",
+    "van-toast": "../../static/vant-weapp/dist/toast/index"
+
+  }
+}

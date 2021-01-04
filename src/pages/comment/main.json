@@ -1,0 +1,7 @@
+{
+    "usingComponents": {
+        "van-uploader": "../../static/vant-weapp/dist/uploader/index",
+        "van-rate": "../../static/vant-weapp/dist/rate/index"
+    },
+    "navigationBarTitleText": "发表评价"
+}

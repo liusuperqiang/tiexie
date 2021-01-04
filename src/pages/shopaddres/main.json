@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "店铺地址",
+    "navigationBarBackgroundColor": "#FF862D",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "van-button": "../../static/vant-weapp/dist/button/index"
+    }
+}

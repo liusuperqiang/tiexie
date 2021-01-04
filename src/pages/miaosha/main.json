@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "限时秒杀",
+    "usingComponents": {
+        "van-count-down": "../../static/vant-weapp/dist/count-down/index"
+    }
+}

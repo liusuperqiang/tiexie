@@ -1,0 +1,8 @@
+{
+    "usingComponents": {
+        "van-tab": "../../static/vant-weapp/dist/tab/index",
+        "van-tabs": "../../static/vant-weapp/dist/tabs/index",
+        "van-rate": "../../static/vant-weapp/dist/rate/index"
+    },
+    "navigationBarTitleText": "商品评价"
+}

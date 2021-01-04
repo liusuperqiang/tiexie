@@ -1,0 +1,186 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": false,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": true,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": false,
+    "useApiHook": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "useIsolateContext": true,
+    "useCompilerModule": false,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true
+  },
+  "miniprogramRoot": "dist/wx/",
+  "compileType": "miniprogram",
+  "appid": "wx2321f85bc3478c47",
+  "projectname": "%E5%B0%8F%E9%A6%99%E9%93%BA",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "libVersion": "2.14.0",
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "pages/my/main",
+          "pathName": "pages/my/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages/my/main",
+          "pathName": "pages/cart/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages/index/main",
+          "pathName": "pages/index/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/search/main",
+          "pathName": "pages/search/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/cart/main",
+          "pathName": "pages/cart/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/chicken/main",
+          "pathName": "pages/chicken/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/specialty/main",
+          "pathName": "pages/specialty/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/miaosha/main",
+          "pathName": "pages/miaosha/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/cartOrder/main",
+          "pathName": "pages/cartOrder/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/shopaddres/main",
+          "pathName": "pages/shopaddres/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/group/main",
+          "pathName": "pages/group/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/orderAll/main",
+          "pathName": "pages/orderAll/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/detail/main",
+          "pathName": "pages/detail/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/comment/main",
+          "pathName": "pages/comment/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/newPurchase/main",
+          "pathName": "pages/newPurchase/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/commentAll/main",
+          "pathName": "pages/commentAll/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/addres/main",
+          "pathName": "pages/addres/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/createadd/main",
+          "pathName": "pages/createadd/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/balance/main",
+          "pathName": "pages/balance/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/my/main",
+          "pathName": "pages/my/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/editadd/main",
+          "pathName": "pages/editadd/main",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

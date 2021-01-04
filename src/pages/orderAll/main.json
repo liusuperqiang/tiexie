@@ -1,0 +1,9 @@
+{
+    "usingComponents": {
+        "van-tab": "../../static/vant-weapp/dist/tab/index",
+        "van-tabs": "../../static/vant-weapp/dist/tabs/index",
+        "van-popup": "../../static/vant-weapp/dist/popup/index"
+    },
+    "navigationBarTitleText": "全部订单"
+
+}

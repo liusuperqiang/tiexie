@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "新疆特产",
+    "usingComponents": {
+        "van-row": "../../static/vant-weapp/dist/row/index",
+        "van-col": "../../static/vant-weapp/dist/col/index"
+    }
+}

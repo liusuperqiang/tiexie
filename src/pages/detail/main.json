@@ -1,0 +1,10 @@
+{
+    "navigationBarTitleText": "商品详情",
+    "usingComponents": {
+        "van-count-down": "../../static/vant-weapp/dist/count-down/index",
+        "van-popup": "../../static/vant-weapp/dist/popup/index",
+        "van-radio": "../../static/vant-weapp/dist/radio/index",
+        "van-radio-group": "../../static/vant-weapp/dist/radio-group/index",
+        "van-stepper": "../../static/vant-weapp/dist/stepper/index"
+    }
+}

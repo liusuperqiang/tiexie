@@ -1,0 +1,10 @@
+{
+    "navigationBarTitleText": "个人中心",
+    "usingComponents": {
+        "van-row": "../../static/vant-weapp/dist/row/index",
+        "van-col": "../../static/vant-weapp/dist/col/index",
+        "van-cell": "../../static/vant-weapp/dist/cell/index",
+        "van-cell-group": "../../static/vant-weapp/dist/cell-group/index",
+        "van-popup": "../../static/vant-weapp/dist/popup/index"
+    }
+}

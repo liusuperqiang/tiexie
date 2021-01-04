@@ -1,0 +1,9 @@
+{
+    "usingComponents": {
+        "van-radio": "../../static/vant-weapp/dist/radio/index",
+        "van-radio-group": "../../static/vant-weapp/dist/radio-group/index",
+        "van-toast": "../../static/vant-weapp/dist/toast/index",
+        "van-dialog": "../../static/vant-weapp/dist/dialog/index"
+    },
+    "navigationBarTitleText": "地址管理"
+}

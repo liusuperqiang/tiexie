@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "新人特惠",
+    "usingComponents": {
+        "van-count-down": "../../static/vant-weapp/dist/count-down/index"
+    }
+}

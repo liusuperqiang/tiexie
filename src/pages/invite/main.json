@@ -1,0 +1,8 @@
+{
+    "usingComponents": {
+        "van-search": "../../static/vant-weapp/dist/search/index"
+    },
+    "navigationBarTitleText": "邀请新人"
+
+
+}
